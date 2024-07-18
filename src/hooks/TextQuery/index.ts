@@ -1,0 +1,1 @@
+export { useTextQuery } from "./use-text-query";
